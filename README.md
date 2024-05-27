@@ -1,6 +1,10 @@
 # E-Commerce Frontend
 
+<<<<<<< HEAD
 This is the frontend for an e-commerce application. It provides a user interface for managing products, customers, and orders.
+=======
+This is the front end for an e-commerce application. It provides a user interface for managing products, customers, and orders.
+>>>>>>> b62401d6150485451f848ffa41d259b4a9b3252d
 
 ## Getting Started
 
@@ -30,6 +34,7 @@ Before running this frontend, make sure you have the Flask server for the backen
     ```sh
     npm start
 5. Open your browser and visit http://localhost:3000 to view the application.
+<<<<<<< HEAD
 
 Usage
 The application provides navigation links for managing products, customers, and orders.
@@ -50,3 +55,5 @@ sql
 Copy code
 
 Just copy this content, create a new file named `README.md` in your project directory, and pas
+=======
+>>>>>>> b62401d6150485451f848ffa41d259b4a9b3252d
